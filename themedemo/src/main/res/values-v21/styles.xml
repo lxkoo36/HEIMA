@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="android:Theme.Material.Light">
+
+        <!-- 设置状态栏 -->
+        <item name="android:colorPrimaryDark">@color/statusColor</item>
+
+        <!-- actionBar的颜色 -->
+        <item name="android:colorPrimary">@color/colorPrimary</item>
+
+        <!-- 背景色 -->
+        <item name="android:windowBackground">@color/windowColor</item>
+
+        <!-- 导航色 -->
+        <item name="android:navigationBarColor">@color/navigationBarColor</item>
+
+        <!--actionbar textcolor-->
+        <item name="android:textColorPrimary">@color/textColorPrimary</item>
+    </style>
+
+    <style name="Theme1" parent="android:Theme.Material.Light">
+
+        <!-- 设置状态栏 -->
+        <item name="android:colorPrimaryDark">@color/statusColor_1</item>
+
+        <!-- actionBar的颜色 -->
+        <item name="android:colorPrimary">@color/colorPrimary_1</item>
+
+        <!-- 背景色 -->
+        <item name="android:windowBackground">@color/windowColor_1</item>
+
+        <!-- 导航色 -->
+        <item name="android:navigationBarColor">@color/navigationBarColor_1</item>
+
+        <!--actionbar textcolor-->
+        <item name="android:textColorPrimary">@color/textColorPrimary_1</item>
+    </style>
+
+    <style name="Theme2" parent="android:Theme.Material.Light">
+
+        <!-- 设置状态栏 -->
+        <item name="android:colorPrimaryDark">@color/statusColor_2</item>
+
+        <!-- actionBar的颜色 -->
+        <item name="android:colorPrimary">@color/colorPrimary_2</item>
+
+        <!-- 背景色 -->
+        <item name="android:windowBackground">@color/windowColor_2</item>
+
+        <!-- 导航色 -->
+        <item name="android:navigationBarColor">@color/navigationBarColor_2</item>
+
+        <!--actionbar textcolor-->
+        <item name="android:textColorPrimary">@color/textColorPrimary_2</item>
+    </style>
+
+</resources>

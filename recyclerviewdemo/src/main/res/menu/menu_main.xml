@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context=".MainActivity">
+    <item android:id="@+id/action_list"
+          android:title="list"
+          android:orderInCategory="100"
+          app:showAsAction="never"/>
+
+      <item android:id="@+id/action_grid"
+            android:title="grid"
+            android:orderInCategory="100"
+            app:showAsAction="never"/>
+
+      <item android:id="@+id/action_stragger"
+            android:title="stragger"
+            android:orderInCategory="100"
+            app:showAsAction="never"/>
+</menu>
